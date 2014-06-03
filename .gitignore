@@ -35,3 +35,6 @@ travis.yml
 /.project
 /.settings
 /.classpath
+
+# vim
+/*.swp
